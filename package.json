@@ -1,5 +1,5 @@
 {
-  "name": "testpackage",
+  "name": "@michaelfdickey/testpackage",
   "version": "1.0.0",
   "description": "test package",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelfdickey/packages_test2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelfdickey/packages_test2/issues"
+  },
+  "homepage": "https://github.com/michaelfdickey/packages_test2#readme"
 }
